@@ -31,9 +31,9 @@ app.post("/create_preference", async (req, res) => {
         },
       ],
       back_urls: {
-        success: "https://www.youtube.com/@onthecode",
-        failure: "https://www.youtube.com/@onthecode",
-        pending: "https://www.youtube.com/@onthecode",
+        success: "https://mercadopagoapibr.netlify.app",
+        failure: "https://mercadopagoapibr.netlify.app",
+        pending: "https://mercadopagoapibr.netlify.app",
       },
       auto_return: "approved",
     };
